@@ -1,2 +1,5 @@
-greeting= "Hello World" # Define a local variable called 'greeting',
- # give it the value of the string "Hello World"
+def say_hello
+  puts "Hello #{your name}."
+end
+
+say_hello
